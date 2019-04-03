@@ -7,7 +7,6 @@ A collection of instructions and scripts to take back the $HOME directory on lin
 # Folders
 
 ## .nv
----
 The .nv file belongs to [**NVIDIA**](http://us.download.nvidia.com/XFree86/FreeBSD-x86/319.32/README/) as part of the [OpenGL Shader Disk Cache](http://us.download.nvidia.com/XFree86/FreeBSD-x86/319.32/README/openglenvvariables.html).
 
 >The NVIDIA OpenGL driver utilizes a shader disk cache. This optimization benefits some applications, by reusing shader binaries instead of compiling them repeatedly...By default, caches are stored in $HOME/.nv/GLCache.
@@ -25,6 +24,4 @@ https://wiki.archlinux.org/index.php/Environment_variables
 http://us.download.nvidia.com/XFree86/FreeBSD-x86/319.32/README/
 
 ## .persepolis
----
-
 As the folder name suggest, .persepolis belongs to the Persepolis Download Manager and is the default temporary download folder. To change it, simple go to `Edit>Preferences>Save as` and change the `Temporary Download Folder` to what ever you want. Finally, you can simply delete the old folder.
